@@ -1,11 +1,11 @@
 # Financial C Programs
 C programs that compute financial calculations and amortization tables.  ANSI C compliant.
 
-amort.c - Calculates an amortization table given the amount, number of periods, and rate per period.
+amort.c   - Calculates an amortization table given the amount, number of periods, and rate per period.
 
-amort2.c - Calculates an amortization table given the amount, payment, and rate per period.
+amort2.c  - Calculates an amortization table given the amount, payment, and rate per period.
 
-finance.c is a library of useful financial functions.  ANSI C compliant.
+finance.c - A C library of useful financial functions.  ANSI C compliant.
 
   a_to_f()        Annuity to future value
   
